@@ -212,3 +212,39 @@ Today, Work Report,
                    dimensions.
        Traversing : Ancestors, descendants, 
                          siblings, filter
+                         
+  
+Monday,
+27/02/2023
+
+Today, Work Report,
+Revise JS HTML DOM module.
+##JS Examples :
+        >html DOM,  inputs, objects, events
+
+
+Wednesday
+1/03/2023,
+
+today, work report 
+Youtube channel : harshit vashisth (javascript | beginning to mastery ).
+
+syllabus : https://docs.google.com/document/d/1szmtyiymgBkIrsvtMzTESIh80uP2bUZGQ4BYAsdvfBM/edit#
+
+following topics are covered :
+           > basics , Array , object , functions modules , 
+               very  important Array methods
+
+Thursday
+2/03/2023,
+
+today, work report 
+Youtube channel : harshit vashisth (javascript | beginning to mastery ).
+first video of playlist completed
+
+syllabus : https://docs.google.com/document/d/1szmtyiymgBkIrsvtMzTESIh80uP2bUZGQ4BYAsdvfBM/edit#
+
+following topics are covered :
+           > remaining array methods, 
+           >more useful things(set, map,  property, 
+           >object oriented JS module
