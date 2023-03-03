@@ -248,3 +248,7 @@ following topics are covered :
            > remaining array methods, 
            >more useful things(set, map,  property, 
            >object oriented JS module
+Friday
+3/03/2023,
+
+till event object (video -2)
