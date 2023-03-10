@@ -252,3 +252,39 @@ Friday
 3/03/2023,
 
 till event object (video -2)
+
+Monday,
+06/03/2023,
+
+today, work report
+
+Youtube channel (For reactjs): https://www.youtube.com/watch?v=vEzt66n2LZY&list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt
+
+Following topics are covered : 
+
+        > Installation of node, create-app,  JSX,  components,  props and propTypes , state .
+        > Create small app :  Text Utilities , to practice above topics. Also referred from react documentation .
+
+Tuesday,
+07/03/2023,
+
+today, work report
+
+Youtube channel (For reactjs): https://www.youtube.com/watch?v=7Vo_VCcWupQ&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
+
+Following topics are covered : 
+
+        >Destructuring props and state, event handling, binding event handlers, methods as props, conditional rendering, list rendering, list and keys, basics of form handling.
+        > Create small app :  Text Utilities , to practice above topics. Also referred from react documentation .
+
+Thursday,
+09/03/2023,
+
+today, work report
+
+Youtube channel (For reactjs): https://www.youtube.com/watch?v=7Vo_VCcWupQ&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
+
+Following topics are covered : 
+
+        >Lifecycle methods of react, Fragment, pure component, memo, error boundry, Higher order component 
+        > Create small app :  Text Utilities , to practice above topics. Also referred from react documentation .
