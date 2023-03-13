@@ -288,3 +288,35 @@ Following topics are covered :
 
         >Lifecycle methods of react, Fragment, pure component, memo, error boundry, Higher order component 
         > Create small app :  Text Utilities , to practice above topics. Also referred from react documentation .
+        
+        
+Friday,
+10/03/2023
+
+today work report 
+
+Refer beta doc of react (new documentation): https://beta.reactjs.org/
+
+Following topics are revise :
+           How to write your first React component
+           When and how to create multi-component files
+           How to add markup to JavaScript with JSX
+           How to use curly braces with JSX to access JavaScript functionality from your components
+           How to configure components with props
+           How to conditionally render components
+           How to render multiple components at a time
+           How to avoid confusing bugs by keeping components pure
+perform challenges given at the end of every topic 
+
+
+
+Monday,
+13/03/2023
+
+How to handle user-initiated events
+How to make components “remember” information with state
+How React updates the UI in two phases
+Why state doesn’t update right after you change it
+How to queue multiple state updates
+How to update an object in state
+How to update an array in state
