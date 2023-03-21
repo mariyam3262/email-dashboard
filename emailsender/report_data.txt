@@ -320,3 +320,78 @@ Why state doesn’t update right after you change it
 How to queue multiple state updates
 How to update an object in state
 How to update an array in state
+
+
+Tuesday,
+14/03/2023
+
+today work report 
+
+Refer beta doc of react (new documentation): https://beta.reactjs.org/
+
+Following topics are revise :
+          How to think about UI changes as state changes
+How to structure state well
+How to “lift state up” to share it between components
+How to control whether the state gets preserved or reset
+How to consolidate complex state logic in a function
+
+
+Wednesday,
+15/03/2023,
+
+
+today work report 
+
+Refer beta doc of react (new documentation): https://beta.reactjs.org/
+
+
+Following topics are referred :
+
+How to consolidate complex state logic in a function
+How to pass information without “prop drilling”
+How to scale state management as your app grows
+
+
+Thursday,
+16/03/2023,
+
+
+today work report 
+
+Refer beta doc of react (new documentation): https://beta.reactjs.org/
+
+
+Following topics are referred :
+
+How to “remember” information without re-rendering
+How to access DOM elements managed by React
+How to synchronize components with external systems
+How to remove unnecessary Effects from your components
+
+YouTube : https://www.youtube.com/watch?v=UjjtvroahBU&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=60
+
+revise following hooks with exercise from above youtube channel :  useState, useEffect, useContext
+
+
+17/03/2023,
+Friday,
+
+YouTube : https://www.youtube.com/watch?v=UjjtvroahBU&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=60
+
+revise following hooks with exercise from above youtube channel :  useReducer, useCallback, useMemo, UseRef
+
+read some blog for better understanding of useCallback and useMemo hooks.
+
+
+20/03/2023,
+Monday,
+
+YouTube : https://www.youtube.com/watch?v=UjjtvroahBU&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=60
+
+referred following topics from above playlist:  
+Rendering in react : rendering behaviour of useState and useReduser.
+                               -state immutability and render.
+                               - render in parent and child component.
+                               -optimization scheme : same element reference and React.memo.
+                               -Render with Context and memo  
