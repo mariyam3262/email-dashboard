@@ -395,3 +395,111 @@ Rendering in react : rendering behaviour of useState and useReduser.
                                - render in parent and child component.
                                -optimization scheme : same element reference and React.memo.
                                -Render with Context and memo  
+
+21/03/2023,
+Tuesday,
+
+YouTube playlist : https://www.youtube.com/watch?v=DYcqatriSNE&list=PLC3y8-rFHvwiPmFbtzEWjESkqBVDbdgGu&index=22
+
+following topics are covered in formik library:
+    useFormik hook
+    initialValues object + formil.handleChange
+    onSubmit method + formik.handleSubmit
+    validate function 
+    validationSchema object
+    formik.errors and formik.touched
+    Formik component - Formik, Form, Feild and ErrorMessage
+    nested object 
+    array 
+    FieldArray component 
+    
+    
+   22/03/2023,
+Wednesday,
+
+YouTube playlist :https://www.youtube.com/watch?v=83TejqrvwJM&list=PLC3y8-rFHvwiPmFbtzEWjESkqBVDbdgGu&index=36
+
+following topics are covered in formik library:
+
+      Manually trigger validation, disable submit button, 
+     reusable controls : Input, select, textare
+     quiz app 
+     
+     
+     
+     23/03/2023,
+Thursday,
+
+today work report : 
+
+ Memorable game with react :- 
+        To code for list the cards and remove from panel while clicking on same  card 
+        
+        24/03/2023,
+Friday,
+
+link : https://docs.google.com/document/d/1N5KJueJsQ5X_4z8tsYUkUunhegtE-oxjVfia7ZjxIwM/edit
+
+task number : 4
+
+today work report , 
+
+code the flipping card functionality in memorable game and add some CSS.
+start new task TODO list and develop  task adding functionality .
+
+
+
+27/03/2023,
+Monday,
+
+link : https://docs.google.com/document/d/1N5KJueJsQ5X_4z8tsYUkUunhegtE-oxjVfia7ZjxIwM/edit
+
+task number : 3
+
+today work report , 
+
+ Todo list : develop todo done functionality and todo delete functionality 
+
+Random user Table:  in this develop the structure of user table  by fatching data from user API and develop 
+                                 filter(search by name, email, dob, gensder) functionality
+                                 
+                                 
+                                 
+ 28/03/2023,
+Tuesday,
+
+link : https://docs.google.com/document/d/1N5KJueJsQ5X_4z8tsYUkUunhegtE-oxjVfia7ZjxIwM/edit
+
+task number : 3,5,6
+
+today work report ,  
+
+Random user Table: sort functionality using , name, DOB, email  for both forward and reverse order.
+Qr code generator while typing input 
+Job listing : listing job from jata and add keywords in header and remove that individually by clicking "del" button 
+
+
+29/03/2023,
+Wednesday,
+
+link : https://docs.google.com/document/d/1N5KJueJsQ5X_4z8tsYUkUunhegtE-oxjVfia7ZjxIwM/edit
+
+task number : 6,7,8
+
+today work report ,  
+
+Job listing : filtering jobs according to skill and role 
+web dictionary : develop web dictionary , will give the detailed meaning of entered word using google api.
+tic-tac-toe : develop necessary functionality to play tic-tac-toe game 
+
+30/03/2023,
+Thursday,
+
+link : https://docs.google.com/document/d/1N5KJueJsQ5X_4z8tsYUkUunhegtE-oxjVfia7ZjxIwM/edit
+
+task number : 8,11
+
+today work report ,  
+tic-tac-toe : develop history functionality which take track of past moves 
+activity listing :  develop functionality to fatch activity on button click and list them accordingly
+react-calender : take a overview of react-calender library for one of the listed task , mentioned in documen  
