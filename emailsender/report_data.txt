@@ -503,3 +503,56 @@ today work report ,
 tic-tac-toe : develop history functionality which take track of past moves 
 activity listing :  develop functionality to fatch activity on button click and list them accordingly
 react-calender : take a overview of react-calender library for one of the listed task , mentioned in documen  
+
+
+31/03/2023,
+Friday,
+
+link : https://docs.google.com/document/d/1N5KJueJsQ5X_4z8tsYUkUunhegtE-oxjVfia7ZjxIwM/edit
+
+task number : 11,12,13,14,15,17
+
+today work report , 
+activity listing :  list all properties  on click button for each activity 
+user online status : develop functionality to update online status for random user at every 2 seconds 
+main and sub task listing : list every main task along with sub task and on clicking button will toggle in completed to incomplete. 
+text with shorthand: interred text display with shorthand, which contain length less then 5 char's will pop up with full text by clicking on that shorthand .
+merge tree : draw the dividing  graph of merge sort method  
+
+
+05/04/2023,
+Wednesday,
+
+today work report ,
+
+link :  https://docs.google.com/document/d/1N5KJueJsQ5X_4z8tsYUkUunhegtE-oxjVfia7ZjxIwM/edit
+
+task number :  18, 19, 20 
+
+>Capcha test : often find capcha online , such as picking up an asked card or image from given of cards or image
+>Player classification :  classify players in two teams in such a way that none of the player classified in both team and also enter our favorite players .
+>Follower and following of user : in this, need to count follower and following of specific user according to entered users.
+
+
+06/04/2023,
+Thursday,
+
+today work report ,
+
+link :  https://docs.google.com/document/d/1N5KJueJsQ5X_4z8tsYUkUunhegtE-oxjVfia7ZjxIwM/edit
+
+tasks :  calculator, quiz app 
+
+applied CSS to quiz app
+start developing calculator 
+
+
+07/04/2023,
+Friday,
+
+today work report ,
+
+tasks :  calculator, quiz app 
+
+>applied CSS to buttons in such a way if the clicked options is right turns to green for fraction of time and red in wrongly picked answer.
+>complete development of calculator with all basics operations with both approaches onkeypress and by clicking buttons on pad 
