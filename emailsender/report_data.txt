@@ -556,3 +556,80 @@ tasks :  calculator, quiz app
 
 >applied CSS to buttons in such a way if the clicked options is right turns to green for fraction of time and red in wrongly picked answer.
 >complete development of calculator with all basics operations with both approaches onkeypress and by clicking buttons on pad 
+
+10/04/2023,
+Monday,
+
+today work report ,
+
+task : file upload, registration form with capcha implementation , calculator with given updates
+
+11/04/2023,
+Tuesday,
+
+today work report ,
+
+task : calculator with given updates 
+
+12/04/2023,
+Wednesday,
+
+today's work report 
+
+>operation should perform as per sign  functionality added to the calculator ,
+>learn react router and make a website layout ,
+        it include three links home, blogs, contact 
+        in blogs there are three dummy blogs which include name , post, last seen
+        in which name is navigable to the user profile 
+        
+13/04/2023,
+Thursday,
+
+today's work report ,
+
+> create structure of protected route and set user using context for authentication purpose
+
+14/04/2023,
+Friday,
+
+today's work report,
+
+>signin for individual users, 
+>logout for current logged in user,
+>post creation according to logged in user 
+>detailed profile for logged in user and only title and post's list for rest of the users 
+
+17/04/2023,
+Monday,
+
+today's work report , 
+
+>By internet surfing read blogs for better understanding of react route .
+> learn crud in react using fake api or dummy api available on internet .
+> practice get and post request on dummy data using axios. 
+
+18/04/2023,
+Tuesday,
+
+today work report 
+>go through blogs of  json-server and it's working .
+>develop CRUD operation using axios and json-server for post module 
+>differentiate operation according to logged in user . i.e. logged in user can only perform all CRUD for his own post while can see (only read) the posts of other user 
+
+19/04/2023,
+Wednesday,
+
+today work report ,
+
+>create json file for users and post and put it to json-server.
+>perform login and logout by requesting to server using axios for different users  .
+>create detail page for post but getting stuck to render profile page.
+>today faced some server issues which consumes considerable time .
+
+20/04/2023
+Thursday,
+
+today work report ,
+
+> Create profile page such a way userdetail and every posted blog put together .
+>Apply some css website 
