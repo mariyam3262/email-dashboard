@@ -633,3 +633,144 @@ today work report ,
 
 > Create profile page such a way userdetail and every posted blog put together .
 >Apply some css website 
+
+
+21/04/2023,
+Friday,
+
+today work report , 
+
+>Apply css to sign in , sign out page, post update page, profile page
+
+25/04/2023
+Tuesday,
+
+today work report , 
+
+link : https://blog.openreplay.com/user-registration-and-login-with-react-and-axios/
+Go through blog to understand  registration and login functionality
+
+link :  https://www.youtube.com/watch?v=tKApfSoDPgM&list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO&index=8
+learn following components of materialUI library : 
+          Components : Button, ButtonGroup, select, textfield, typography  with there most useable properties
+          
+26/04/2023,
+Wednesday,
+
+today work report , 
+
+link : https://www.youtube.com/watch?v=IlM7497j6LY&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK&index=24
+
+From above redux playlist the following topics are covered : 
+
+      Principals of redux, action, reducer, store, multiple reducer, combine reducer, middleware , useSelector, useDispatch hooks with single and multiple reducer function for different components.
+
+27/04/2023,
+Thursday,
+
+today work report , 
+
+link : https://www.youtube.com/watch?v=5EMyvYGzv0o&list=PLC3y8-rFHvwiaOAuTtVXittwybYIorRB3&index=20
+
+from above reducx toolkit playlist following topics are covered / revised:, 
+        action, reducer, store, async action creators, createSlice and configureStore 
+
+28/04/2023,
+Friday,
+
+today work report 
+
+link : https://www.youtube.com/watch?v=5EMyvYGzv0o&list=PLC3y8-rFHvwiaOAuTtVXittwybYIorRB3&index=20
+
+from above reducx toolkit playlist following topics are covered / revised:, 
+        action, reducer, store, async action creators, createSlice and configureStore, useSelecter, useDispatch with react app
+
+1/05/2023,
+Monday,
+
+today work report , 
+
+link : https://www.youtube.com/watch?v=5EMyvYGzv0o&list=PLC3y8-rFHvwiaOAuTtVXittwybYIorRB3&index=20
+
+learn fetch request using ayncThunk methods and render on web page . go through some blogs for project related information (blog post project).
+
+2/05/2023,
+Tuesday,
+
+today work report , 
+
+>Today i have read couple of articles to understand process of integrate chatGpt api with own  project. 
+>Successfully integrate key to my project and develop module in which user can prompt any query and generate blog for desired topic.
+>Another module in which user can review existing post and can enhance by prompting required information 
+
+3/05/2023,
+Wednesday,
+
+today work report, 
+> develop a feature that help in blog post , we can enhace the post , add ai generated post , copy the generated post and stop button to control post generation.
+> after submitting post successfully a pleasant message is generated for user to appreciate user's efforts
+
+4/5/2023,
+Thursday, 
+
+today work report , 
+
+> develop a feature that generate welcome message at login to the logged in user and departure msg at log out .
+> develop a feature that generate encourage msg at the time of the post . and same functionality as post creation added to the post upgration 
+
+05/05/2023,
+Friday,
+
+today work report , 
+
+Go through redux documentation to brush up the concepts .
+fix the bugs in blog post project and apply styling for better look. 
+
+8/5/2023,
+Monday,
+
+today work report , 
+
+Read couple of articles to get the better understanding of when to use Contex api and when to use Redux.
+Read following points of redux toolkit documentation   : createSlice, createAsyncThunk,  working of different components of redux toolkit in sync. 
+
+9/05/2023,
+Tuesday,
+
+today work report, 
+
+Do setup of given carnivalistweb project . 
+Go through the structure of the project and Start configuring the code from header module.
+
+11/5/2023,
+Thursday,
+
+today work report , 
+
+>Go through the components of the carnivalist web project , 
+       the components are : Header, NewBannerUpdate, SearchSection, AllDestinations, EventPreview, Otherevents, 
+       Blog, BlogDetailNew, EventListV2.
+
+link: https://firebase.google.com/codelabs/firebase-web#0
+
+> Go through the above documentation of firebase " web " codelab up to "read images".
+
+12/5/2023,
+Friday,
+
+today work report,
+
+link : https://www.geeksforgeeks.org/user-to-user-private-chat-app-using-reactjs-and-firebase-without-socket-programming/
+
+By referring above blog understand how to develop chat app in react.
+Register the project on firebase and add authentication provider to the project: email-password.
+Take realtime database service of firebase for the project .
+understand the concepts of realtime database and firestore database services.
+
+15/05/2023,
+Monday,
+
+today work report, 
+
+> develop signIn and signUp functionality using firebase email/password service.
+> design structures of firebase firestore service , structures are : user and conversation to store messages for user to user conversation
